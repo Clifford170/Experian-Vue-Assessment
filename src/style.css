@@ -40,6 +40,12 @@ header {
   background: #AF1685 0% 0% no-repeat padding-box;
   color: #ffffff;
   border: 1px solid #AF1685;
+
+}
+.btn-theme-form{
+  color: #ffffff;
+  border: 1px solid #AF1685;
+  background: #6D2077
 }
 
 .swiper-slide {
