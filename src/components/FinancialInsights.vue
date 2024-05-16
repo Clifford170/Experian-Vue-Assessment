@@ -4,7 +4,7 @@
     <section class="financial">
         <div class="container-fluid align-content-end">
             <div class="row">
-                <div class="col-6 col-sm-12 col-lg-6 col-xl-6 col-super-4">
+                <div class="col-6 col-sm-12 col-lg-6 col-xl-6 col-super-4 align-self-end">
                     <img class="image" src="/src/assets/Exprerian/Infographic2.png">
                 </div>
                 <div class="col-6 col-sm-12 col-lg-6 col-xl-6 col-super-8 align-content-center">
